@@ -1,4 +1,4 @@
-# .github/workflows/update-readme.yml
+# .github/workflows/update-readme.ym
 name: Update README
 
 on:
